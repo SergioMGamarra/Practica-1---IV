@@ -8,6 +8,7 @@ El desarrollo de esta práctica esta basado en el desarrollo de un periódico di
 
 La aplicación es un periódico digital, en el que podremos navegar por las distintas secciones y por todas las noticias de cada sección, además podremos darnos de alta como usuarios y comentar todas las noticias. Existe además una cuenta admin que posee un panel de gestión de las noticias de la portada.
 En la portada inicial del periódico tenemos un documento 'cómo se hizo' en el que todo esta explicado detalladamente.
+Para la aplicación he escogido la licencia [GPLv3](http://www.gnu.org/licenses/licenses.html#GPL)
 
 ### PaaS
 
